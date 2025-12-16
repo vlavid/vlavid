@@ -4,13 +4,6 @@ Objetivo: profesional, claro y sin datos sensibles.
 -->
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0B3BFF&height=170&section=header&text=Victor%20Lavid&fontAlignY=35&fontColor=ffffff&desc=Solution%20Architect%20%2F%20Tech%20Lead%20(Data%20%26%20Integracion)&descAlignY=58"
-    alt="Banner"
-  />
-</p>
-
-<p align="center">
   <strong>Solution Architect / Tech Lead</strong> (Data & Integración)
   <br />
   Java (Spring Boot/Batch) · PostgreSQL · Observabilidad · TypeScript (Angular/Vue/React)
