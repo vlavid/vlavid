@@ -1,23 +1,45 @@
 <!--
-Perfil de GitHub (README) para @vlavid
-README de perfil (formato público y sin datos sensibles)
+README de perfil (público) para @vlavid
+Objetivo: profesional, claro y sin datos sensibles.
 -->
 
-<!-- Banner: puedes cambiar el tipo (waving/rect), color, texto, etc. -->
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0B3BFF&height=170&section=header&text=Victor%20Lavid&fontAlignY=35&fontColor=ffffff&desc=Solution%20Architect%20%2F%20Tech%20Lead%20(Data%20%26%20Integracion)&descAlignY=58"
     alt="Banner"
   />
 </p>
-- Administración de Alfresco ECM 5
-- Inglés B2 (Aptis)
+
+<p align="center">
+  <strong>Solution Architect / Tech Lead</strong> (Data & Integración)
+  <br />
+  Java (Spring Boot/Batch) · PostgreSQL · Observabilidad · TypeScript (Angular/Vue/React)
+</p>
+
+<p align="center">
+  <a href="https://github.com/vlavid"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@vlavid-111827?logo=github" /></a>
+  <a href="https://www.linkedin.com/in/vlavidgutierrez"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-vlavidgutierrez-0A66C2?logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
-## Resumen profesional
+## Sobre mí
 
-Solution Architect / Tech Lead con experiencia en entornos de alta exigencia: plataformas de datos, productos ETL, CDC, arquitecturas desacopladas y operación con foco en fiabilidad. Trabajo con Java (Spring Boot/Spring Batch), PostgreSQL, CI/CD automatizado y observabilidad (Grafana/Prometheus), y he llevado a producción capacidades basadas en LLM para triage asistido en observabilidad.
+- Arquitecturas para **plataformas de datos**: ETL/Data Products, CDC y sistemas event-driven.
+- Backend con **Java 21**, **Spring Boot** y **Spring Batch**, con foco en fiabilidad y operación.
+- **PostgreSQL** (calidad, estabilidad y prácticas operativas) y despliegues automatizados.
+- **Observabilidad** (Grafana/Prometheus) y uso de **LLM** para apoyar triage y diagnóstico.
+
+---
+
+## Certificaciones
+
+- AWS Certified Security – Specialty
+- AWS Certified Solutions Architect – Professional
+- AWS Certified Solutions Architect – Associate
+- Oracle Certified Associate — Java SE 8 Programmer I (1Z0-808)
+- Administración de Alfresco ECM 5
+- Inglés B2 (Aptis)
 
 ---
 
@@ -46,45 +68,10 @@ Solution Architect / Tech Lead con experiencia en entornos de alta exigencia: pl
 
 ---
 
-## Métricas
-
-<p align="center">
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api?username=vlavid&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent"
-    alt="GitHub stats"
-  />
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlavid&layout=compact&langs_count=8&theme=transparent"
-    alt="Top languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="170"
-    src="https://streak-stats.demolab.com?user=vlavid&theme=transparent&hide_border=true"
-    alt="GitHub streak"
-  />
-</p>
-
-<!-- Opcional (si quieres una gráfica):
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vlavid&theme=github-compact" alt="Activity graph" />
-</p>
--->
-
----
-
 ## Contacto
 
-- 💬 Si quieres colaborar o tienes una idea: abre un issue o escríbeme.
-- 🔗 LinkedIn: https://www.linkedin.com/in/vlavidgutierrez
-
-<sub>Prefiero el contacto por LinkedIn o por issues/PRs en GitHub.</sub>
-
----
+- Para colaborar o proponer ideas: issues/PRs en GitHub.
+- LinkedIn: https://www.linkedin.com/in/vlavidgutierrez
 
 <p align="center">
   <sub>Última actualización: 2025-12-16</sub>
